@@ -1,0 +1,16 @@
+{
+    "name": "aloraytech/tdocs",
+    "description": "Documentation For AlorayTech [Aloray Technologies] Tinkle Framework",
+    "autoload": {
+        "psr-4": {
+            "Aloraytech\\TDocs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krishanu Bhattacharya",
+            "email": "krishanu.info@gmail.com"
+        }
+    ],
+    "require": {}
+}
